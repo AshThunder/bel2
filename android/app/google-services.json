@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789328609437",
+    "project_id": "bells-food",
+    "storage_bucket": "bells-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789328609437:android:d6f074c99a6b83cdcc1474",
+        "android_client_info": {
+          "package_name": "com.bellsfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0jvd0rpzx87sJ97mYxX0Rbv8p4BVj24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789328609437:android:a37f3698dc4e8dddcc1474",
+        "android_client_info": {
+          "package_name": "com.bellsfood.ng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0jvd0rpzx87sJ97mYxX0Rbv8p4BVj24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
